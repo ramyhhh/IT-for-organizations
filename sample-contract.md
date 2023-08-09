@@ -32,31 +32,27 @@ Either party may terminate this agreement with written notice of 30 days, after 
 
 The Employee shall not disclose any confidential information pertaining to the Employer's business.
 
-**SECTION 7: OTHER TERMS AND CONDITIONS**
-
-Further terms and conditions, if any, shall be as per the company's policy, which may be amended from time to time.
-
-SECTION 8: WORK PRODUCT
+SECTION 7: WORK PRODUCT
 
 The Employee shall push all work via Git on a daily basis or as otherwise directed by the Employer.
 
-SECTION 9: CONFLICT OF INTEREST
+SECTION 8: CONFLICT OF INTEREST
 
 The Employee shall not engage in any conflicting projects, businesses, or other activities that may interfere with the Employee's duties under this agreement.
 
-SECTION 10: TRAINING
+SECTION 9: TRAINING
 
 The Employer shall provide the necessary training and resources for the Employee to perform the duties outlined in Appendix A.
 
-SECTION 11: NON-DISCLOSURE AGREEMENT (NDA)
+SECTION 10: NON-DISCLOSURE AGREEMENT (NDA)
 
-The Employee agrees to maintain in confidence all proprietary and confidential information obtained from the Employer during the employment period. This includes, but is not limited to, trade secrets, business strategies, marketing plans, client information, and any other information deemed confidential by the Employer. This obligation shall continue beyond the termination of this agreement for a period of [Specify Duration, e.g., two years].
+The Employee agrees to maintain in confidence all proprietary and confidential information obtained from the Employer during the employment period. This includes, but is not limited to, trade secrets, business strategies, marketing plans, client information, and any other information deemed confidential by the Employer. This obligation shall continue beyond the termination of this agreement.
 
 The Employee shall not disclose, disseminate, or use such information, except as required in the course of employment, without the written consent of the Employer.
 
 A breach of this section may result in legal action and damages as per applicable laws.
 
-SECTION 12: DISPUTE RESOLUTION AND GOVERNING LAW
+SECTION 11: DISPUTE RESOLUTION AND GOVERNING LAW
 
 In the event of any dispute arising out of or relating to this agreement, the parties agree to submit to the jurisdiction of Turkish courts, and the laws of Turkey shall govern this contract. Both parties agree to make a good-faith effort to resolve any disagreements amicably before pursuing legal action.
 
